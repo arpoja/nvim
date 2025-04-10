@@ -10,3 +10,6 @@ vim.opt.shiftwidth = 0 -- 0 means follow tabstop
 
 -- some ui stuff
 vim.opt.scrolloff = 20
+
+-- markdown folding is ass by default
+vim.opt.conceallevel = 0
